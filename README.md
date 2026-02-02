@@ -6,7 +6,6 @@ Generate clean, flat, black & white icons with **SD1.5 Icon Maker V1** in ComfyU
 
 **Model:** [Icon Maker V1 on Civitai](https://civitai.com/models/327499/ui-icons)  
 
-<a href="https://raw.githubusercontent.com/sypcerr/comfyui-workflows/main/IconGenerator.json" download="IconGenerator.json">
-  Download Workflow
-</a>
+**Download [IconGenerator](https://github.com/sypcerr/comfyui-workflows/blob/main/IconGenerator.json)**
+
 
